@@ -1,5 +1,5 @@
 # LocalChat
-LocalChat is a resource for FiveM by Albo1125 that provides local text & voice chat functionality (needs to be adapted if you want to use it with OneSync Infinity).
+LocalChat is a resource for FiveM by Albo1125 that provides local text & voice chat functionality (needs to be adapted if you want to use it with OneSync Infinity). It is available at [https://github.com/Albo1125/LocalChat](https://github.com/Albo1125/LocalChat)
 
 ## Installation & Usage
 1. Download the latest release.
