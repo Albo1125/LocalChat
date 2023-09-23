@@ -1,9 +1,9 @@
 # LocalChat
-LocalChat is a resource for FiveM by Albo1125 that provides local text & voice chat functionality (needs to be adapted if you want to use it with OneSync Infinity). It is available at [https://github.com/Albo1125/LocalChat](https://github.com/Albo1125/LocalChat)
+LocalChat is a resource for FiveM by Albo1125 that provides local text & voice chat functionality. There are separate versions for Onesync Legacy and Infinity, please ensure you install the appropriate version for your server. It is available at [https://github.com/Albo1125/LocalChat](https://github.com/Albo1125/LocalChat)
 
 ## Installation & Usage
 1. Download the latest release.
-2. Unzip the LocalChat folder into your resources folder on your FiveM server.
+2. Unzip the legacy or infinity LocalChat folder into your resources folder on your FiveM server.
 3. Add the following to your server.cfg file:
 ```text
 ensure LocalChat
